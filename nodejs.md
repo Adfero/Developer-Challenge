@@ -1,6 +1,6 @@
 # Node.js Developer Candidate Test
 
-Write a "Metro Trip Planner" application in Node.js
+Write a "Metro Trip Planner" application in Node.js that does the following:
 
 1. Allows login to a restricted section using social media accounts.
 2. Stores basic user data in a database.
